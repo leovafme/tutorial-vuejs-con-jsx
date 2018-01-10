@@ -189,3 +189,6 @@ Con el código anterior creamos un componente que tiene un span que al darle cli
 Implementar JXS nos da algunas ventajas y depende si tenemos o no la necesidad de usarlo, si has trabajado previamente con ReactJs esto te sera pan comido y como todo un un gran poder conlleva una gran responsabilidad
 
 ![gran poder conlleva una gran responsabilidad](https://cdn-images-1.medium.com/max/800/1*NTFw-TuHtv2KbyXv_18UVg.jpeg)
+
+
+[Codigo de muestra visto en el ejemplo](https://github.com/leovafme/tutorial-vuejs-con-jsx)
